@@ -1,1 +1,1 @@
-A scripting that prints your current working directory
+This is my Shell Basics Repository
