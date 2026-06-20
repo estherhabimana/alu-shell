@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 #commenting here
 i=1
 while [ $i -le 10 ]; do echo "Best School"; ((i++)); done
